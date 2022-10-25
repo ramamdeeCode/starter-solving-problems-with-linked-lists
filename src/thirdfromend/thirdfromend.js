@@ -34,4 +34,3 @@ function thirdFromEnd(list) {
 }
 
 module.exports = thirdFromEnd;
-Foo;
